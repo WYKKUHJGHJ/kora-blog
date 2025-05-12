@@ -1,26 +1,26 @@
 [
   {
-    "id": "note1",
     "title": "Welcome to Kora Net",
-    "content_url": "https://wykkuhjghj.github.io/kora-blog/blog_index.json",
-    "date": "2025-05-11"
+    "date": "2025-05-11",
+    "tags": ["News"],
+    "url": "https://wykkuhjghj.github.io/kora-blog/welcome.md"
   },
   {
-    "id": "note2",
     "title": "KRT Token Use Cases",
-    "content_url": "https://wykkuhjghj.github.io/kora-blog/note2.md",
-    "date": "2025-05-12"
+    "date": "2025-05-12",
+    "tags": ["Token", "KRT"],
+    "url": "https://wykkuhjghj.github.io/kora-blog/note2.md"
   },
   {
-  "id": "example-id",
-  "title": "Markdown Enhanced Demo",
-  "date": "2025-05-11",
-  "path": "example.md"
-},
+    "title": "Markdown Enhanced Demo",
+    "date": "2025-05-11",
+    "tags": ["Demo"],
+    "url": "https://wykkuhjghj.github.io/kora-blog/example.md"
+  },
   {
-    "id": "BTC Market Vibes – May 9, 2025",
     "title": "BTC Market Vibes – May 9, 2025",
-    "content_url": "https://wykkuhjghj.github.io/kora-blog/BTC Market Vibes – May 9, 2025.md",
-    "date": "2025-05-09"
+    "date": "2025-05-09",
+    "tags": ["BTC", "Market"],
+    "url": "https://wykkuhjghj.github.io/kora-blog/btc-market-vibes.md"
   }
 ]
