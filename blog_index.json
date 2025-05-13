@@ -1,8 +1,16 @@
 [
   {
-    "date": "2025-05-13",
-    "tags": ["Test"],
-    "title": "Test",
-    "filename": "Test--2025-05-13.md"
+    "id": "note1",
+    "title": "Welcome to Kora Net",
+    "date": "2025-05-11",
+    "tags": ["intro", "kora"],
+    "content_url": "https://your-domain.github.io/your-repo/note1.md"
+  },
+  {
+    "id": "note2",
+    "title": "KRT Token Use Cases",
+    "date": "2025-05-12",
+    "tags": ["token", "usecase"],
+    "content_url": "https://your-domain.github.io/your-repo/note2.md"
   }
 ]
