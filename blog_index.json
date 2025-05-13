@@ -1,1 +1,8 @@
-[{"date":"2025-05-13","tags":["Test"],"title":"Test ","filename":"Test--2025-05-13.md"}]
+[
+  {
+    "date": "2025-05-13",
+    "tags": ["Test"],
+    "title": "Test",
+    "filename": "Test--2025-05-13.md"
+  }
+]
