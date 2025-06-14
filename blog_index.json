@@ -26,5 +26,12 @@
   "date": "2025-05-23",
   "tags": ["market", "btc", "eth", "11W"],
   "content_url": "https://raw.githubusercontent.com/wykkuhjghj/kora-blog/main/2025-5-23BTC.md"
+},
+  {
+  "id": "2025_06_15",
+  "title": "Official Contact Email",
+  "date": "2025-06-15",
+  "tags": ["Email", "Contact", "Support", "Info"],
+  "content_url": "https://raw.githubusercontent.com/wykkuhjghj/kora-blog/main/Official contact email.md"
 }
 ]
